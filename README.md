@@ -26,15 +26,18 @@ Python is necessary, obviously. Made and tested with Python 3.11
    cd disk_space_checker
 
 2. **Set up a virtual environment:**
+    ```bash
     python -m venv virtenv
     source virtenv/bin/activate  #On Windows use `virtenv\Scripts\activate`
 
 3. **Install the required packages:**
+    ```bash
     pip install -r requirements.txt
 
 ## Usage
 
 1. **Run the script to generate the disk space report:**
+    ```bash
     python disk_space_checker.py
 
 2. View the generated HTML report located in the same directory. You can open it in a web browser to view the disk space information.
