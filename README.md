@@ -22,7 +22,7 @@ Python is necessary, obviously. Made and tested with Python 3.11
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/breadtheripper/disk_space_checker.git
+   git clone https://github.com/BreadtheRipper/disk_space_checker.git
    cd disk_space_checker
 
 2. **Set up a virtual environment:**
